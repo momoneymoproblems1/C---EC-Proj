@@ -33,7 +33,7 @@ Clone the repository:
 
 
 ---Copy code
-git clone https://github.com/momoneymoproblems1/EC---EC-Proj.git
+git clone https://github.com/momoneymoproblems1/C---EC-Proj.git
 
 
 Compile the program:
