@@ -1,4 +1,5 @@
 Library Management System
+
 This project implements a simple Library Management System in C++, providing basic functionalities for managing books, users, and transactions within a library setting.
 
 Features
@@ -12,6 +13,7 @@ Book Management:
 
 
 User Management:
+
 ---Register new users with a unique ID and name.
 
 ---Manage borrowed books for each user, including borrowing and returning.
@@ -27,10 +29,10 @@ Reports:
 Requirements
 
 ---C++ compiler with C++11 support (e.g., g++ 4.8+)
+
 Usage
 
 Clone the repository:
-
 
 ---Copy code
 git clone https://github.com/momoneymoproblems1/C---EC-Proj.git
